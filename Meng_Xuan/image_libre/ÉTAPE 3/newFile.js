@@ -1,0 +1,5 @@
+float;
+getX();
+{
+  return x;
+}
